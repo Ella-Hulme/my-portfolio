@@ -5,12 +5,12 @@ Welcome to my portfolio! Here are some projects I've worked on:
 ## Table of Contents
 - [Project List](#project-list)
   - [Permutation Cipher (Java)](#1-permutation-cipher-java)
-  - [Permutation Cipher with Cryptanalysis (Java)](#permutation-cipher-with-cryptanalysis-java)
-  - [Vigenère Cipher (Python)](#vigenère-cipher-python)
-  - [Vigenère Cipher with Cryptanalysis (Python)](#vigenère-cipher-with-cryptanalysis-python)
-  - [Stop-and-Wait Protocol for Reliable Data Transfer (Java)](#stop-and-wait-protocol-for-reliable-data-transfer-java)
-  - [Diffie-Hellman Key Agreement (Java)](#diffie-hellman-key-agreement-java)
-  - [Password Manager (Python)](#password-manager-python)
+  - [Permutation Cipher with Cryptanalysis (Java)](#2-permutation-cipher-with-cryptanalysis-java)
+  - [Vigenère Cipher (Python)](#3-vigenère-cipher-python)
+  - [Vigenère Cipher with Cryptanalysis (Python)](#4-vigenère-cipher-with-cryptanalysis-python)
+  - [Stop-and-Wait Protocol for Reliable Data Transfer (Java)](#5-stop-and-wait-protocol-for-reliable-data-transfer-java)
+  - [Diffie-Hellman Key Agreement (Java)](#6-diffie-hellman-key-agreement-java)
+  - [Password Manager (Python)](#7-password-manager-python)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 
