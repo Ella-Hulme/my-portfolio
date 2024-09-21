@@ -8,7 +8,6 @@ Welcome to my portfolio! Here are some projects I've worked on:
   - [Permutation Cipher with Cryptanalysis (Java)](#2-permutation-cipher-with-cryptanalysis-java)
   - [Vigenère Cipher (Python)](#3-vigenère-cipher-python)
   - [Vigenère Cipher with Cryptanalysis (Python)](#4-vigenère-cipher-with-cryptanalysis-python)
-  - [Stop-and-Wait Protocol for Reliable Data Transfer (Java)](#5-stop-and-wait-protocol-for-reliable-data-transfer-java)
   - [Diffie-Hellman Key Agreement (Java)](#6-diffie-hellman-key-agreement-java)
   - [Password Manager (Python)](#7-password-manager-python)
 - [Technologies Used](#technologies-used)
@@ -53,15 +52,6 @@ This project decrypts Vigenère cipher text without knowing the key using freque
   - Implements frequency analysis.
 
 - **Technologies**: Python
-
-### 5. Stop-and-Wait Protocol for Reliable Data Transfer (Java)
-This project simulates the Stop-and-Wait protocol, a simple data link layer protocol used in reliable data transfer. The implementation demonstrates how data is sent, acknowledged, and retransmitted in case of packet loss.
-
-- **Features**: 
-  - Sender and receiver simulate the reliable transmission of data packets.
-  - Handles packet loss and retransmission.
-
-- **Technologies**: Java
 
 ### 6. Diffie-Hellman Key Agreement (Java)
 This project simulates the Diffie-Hellman key agreement protocol between four participants. It demonstrates how secure keys can be exchanged over an insecure channel using this classic cryptographic technique.
