@@ -4,7 +4,7 @@ Welcome to my portfolio! Here are some projects I've worked on:
 
 ## Table of Contents
 - [Project List](#project-list)
-  - [Permutation Cipher (Java)](#permutation-cipher-java)
+  - [Permutation Cipher (Java)](#1-permutation-cipher-java)
   - [Permutation Cipher with Cryptanalysis (Java)](#permutation-cipher-with-cryptanalysis-java)
   - [Vigenère Cipher (Python)](#vigenère-cipher-python)
   - [Vigenère Cipher with Cryptanalysis (Python)](#vigenère-cipher-with-cryptanalysis-python)
