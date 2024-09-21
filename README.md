@@ -91,7 +91,6 @@ A simple Python password manager that allows users to securely store and retriev
 
 ## How to Run
 
-### Java Projects
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Ella-Hulme/my-portfolio.git
