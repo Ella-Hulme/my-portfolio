@@ -99,17 +99,20 @@ A simple Python password manager that allows users to securely store and retriev
 
 ### Java Projects
 3. Compile the Java code:
-   ```java
+ ```java
 javac FileName.java
-
-
+```
    
 4. Run the compiled Java class:
+```java
    java FileName
+```
    
 ### Python Projects
 3. Run the Python script:
+```python
    python script_name.py
+```
 
 ## Contact
 If you have any questions, feel free to reach out to me at ella.grace.hulme11@gmail.com
